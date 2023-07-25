@@ -12,7 +12,7 @@ RAVDESS dataset (Ryerson Audio-Visual Database of Emotional Speech and Song) con
 
 [RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
-Mediapipe Demo: https://huggingface.co/spaces/tensorgirl/audio_classification
+HuggingFace spaces Demo: https://huggingface.co/spaces/tensorgirl/audio_classification
 
 ### References :
 

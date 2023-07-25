@@ -1,6 +1,6 @@
 ### Problem Statement :
 
-Inferring emotions from multiple modalities is very critical for social communication and deficits in emotion recognition are a very important marker in the diagnosis of autism spectrum disorder. This project uses AI to help autistic individuals recognize emotions in text.
+Inferring emotions from multiple modalities is very critical for social communication and deficits in emotion recognition are a very important marker in the diagnosis of autism spectrum disorder. This project uses AI to help autistic individuals recognize emotions in speech.
 
 ### Model :
 
@@ -8,9 +8,9 @@ tf-wav2vec2-base (Keras and Keras Core)
 
 ### Dataset : 
 
-GoEmotions is a human-annotated dataset of 58k Reddit comments extracted from popular English-language subreddits and has 27 emotion categories.
+RAVDESS dataset (Ryerson Audio-Visual Database of Emotional Speech and Song) contains 7,356 audio files which are labeled against different emotions in Speech (calm, happy, sad, angry, fearful, surprise, and disgust expressions) and song (calm, happy, sad, angry, and fearful emotions). This dataset contains a sample of the files from the original RAVDESS dataset.
 
-[GoEmotions](https://arxiv.org/pdf/2005.00547.pdf)
+[RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
 Mediapipe Demo: https://huggingface.co/spaces/tensorgirl/audio_classification
 
@@ -20,7 +20,7 @@ Mediapipe Demo: https://huggingface.co/spaces/tensorgirl/audio_classification
 
 [Official Keras Core Documentation](https://keras.io/keras_core/)
 
-[Automatic Emotion Recognition in Children with Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8875834/)
+[RAVDESS](https://zenodo.org/record/1188976#.YFZuJ0j7SL8)
 
 ### My Advocacy in Autism
 

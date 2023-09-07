@@ -14,6 +14,11 @@ RAVDESS dataset (Ryerson Audio-Visual Database of Emotional Speech and Song) con
 
 HuggingFace spaces Demo: https://huggingface.co/spaces/tensorgirl/audio_classification
 
+
+### Intel Extension of TensorFlow
+
+Include the line pip install --upgrade intel-extension-for-tensorflow[cpu] in the beginning to use the Intel Extension of Tensorflow
+
 ### References :
 
 [huggingFace - tf-wav2vec2-base](https://huggingface.co/vasudevgupta/tf-wav2vec2-base)
